@@ -1,1 +1,5 @@
 This is a collection of solutions for various problems in the 9th edition of "Java How to Program".
+
+Note: They might not be exact solutions (they may not use the exact method required), and most of them will be much more advanced than the book expects.
+
+Some might also contain multiple solutions.  Some of the additional solutions may be there just because I thought it would be fun to make it more complex (like adding networking to a HelloWorld type thing).
